@@ -1,3 +1,3 @@
 https://development-tools.net/python-obfuscator/
 
-Prolly the worst online obfuscator lol
+Prolly the worst online Python obfuscator lol

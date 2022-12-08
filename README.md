@@ -1,2 +1,3 @@
-# development-tools-deobfuscator
-development-tools deobfuscator
+https://development-tools.net/python-obfuscator/
+
+Prolly the worst online obfuscator lol
